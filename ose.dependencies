@@ -1,0 +1,22 @@
+[
+  {
+    "repository":  "Team-OSE/device_lge_g2-common",
+    "target_path": "device/lge/g2-common",
+    "branch":      "ose"
+  },
+  {
+    "repository":  "RenderBroken/msm8974_G2_render_kernel",
+    "target_path": "kernel/lge/msm8974",
+    "branch":      "cm-12.0"
+  },
+  {
+    "repository":  "lg-devs/proprietary_vendor_lge",
+    "target_path": "vendor/lge",
+    "branch":      "cm-12.0"
+  },
+  {
+    "repository":  "CyanogenMod/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "branch":      "cm-12.0"
+  }
+]
